@@ -1,1 +1,2 @@
 This is some sample text in file1.
+Second line.
