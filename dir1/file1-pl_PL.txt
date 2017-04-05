@@ -1,0 +1,6 @@
+To jest przykładowy tekst w pliku pierwszym.
+Druga linia.
+Trzecia linia
+Fourth line.
+Piąta linia.
+Szósta linia.
