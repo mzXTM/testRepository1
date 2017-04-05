@@ -4,3 +4,5 @@ Trzecia linia
 Fourth line.
 Piąta linia.
 Szósta linia.
+Seventh line.
+Ósma linia.
