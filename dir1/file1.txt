@@ -1,20 +1,20 @@
-This is some sample text in file1.
-Second line.
-Third line.
+To jest przykładowy tekst w pliku pierwszym.
+Druga linia.
+Trzecia linia
 Fourth line.
-Fifth line.
-Sixth line.
+Piąta linia.
+Szósta linia.
 Seventh line.
-Eighth line.
-Ninth line.
-Ten line.
+Ósma linia.
+Dziewiąta linia
+Dziesiąta linia.
 Eleven.
 Twelve.
 Thirteen.
-Fourteen.
-Fifteen.
-Sixteen.
-Seventeen.
-Eighteen.
-Nineteen.
-Twenty.
+Czternaście.
+Piętnaście.
+szesnaście
+siedemnaście
+Osiemnaście.
+dziewiętnaście
+dwadzieścia
