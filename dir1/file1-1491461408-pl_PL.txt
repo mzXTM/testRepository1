@@ -12,4 +12,4 @@ Eleven.
 Twelve.
 Thirteen.
 Czternaście.
-zmiana
+Piętnaście.
