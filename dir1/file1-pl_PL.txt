@@ -8,6 +8,7 @@ Seventh line.
 Ósma linia.
 Dziewiąta linia
 Dziesiąta linia.
-Jedenaście
-Dwanaście
-Trzynaście.
+Eleven.
+Twelve.
+Thirteen.
+Czternaście.
