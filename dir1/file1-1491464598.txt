@@ -18,5 +18,4 @@ siedemnaście
 Osiemnaście.
 dziewiętnaście.
 dwadzieścia.
-thirty.
-zmiana.
+trzydzieści
