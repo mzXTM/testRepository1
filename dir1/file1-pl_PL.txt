@@ -1,0 +1,18 @@
+To jest przykładowy tekst w pliku pierwszym.
+Druga linia.
+Trzecia linia
+Fourth line.
+Piąta linia.
+Szósta linia.
+Seventh line.
+Ósma linia.
+Dziewiąta linia
+Dziesiąta linia.
+Eleven.
+Twelve.
+Thirteen.
+Czternaście.
+Piętnaście.
+Sixteen.
+Seventeen.
+Osiemnaście.
