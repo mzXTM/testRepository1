@@ -1,4 +1,4 @@
-branch master
+branch backup
 To jest przykładowy tekst w pliku pierwszym.
 Druga linia.
 Trzecia linia
