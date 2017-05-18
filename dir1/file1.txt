@@ -1,7 +1,7 @@
 vvvaaddasdasda
 aasdsad
 File1ContentMaster
-master
+BUCKET
 asdada
 asfasfsafa
 sdada
@@ -13,5 +13,5 @@ asdadasdadaasdasd
 TEST
 TEST 2!!
 TEST MASTA BLASTA
-asdad
-MWEHEHEH
+ASDAD
+ZMIANA
